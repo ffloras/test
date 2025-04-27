@@ -1,3 +1,4 @@
 Another file!
 Who can see what's happening next...?
 #1 adds a line.
+#2 adds a line for merge conflict.
