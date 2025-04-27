@@ -2,6 +2,7 @@ Hello world
 #2 adds a new line at the beginning.
 this is a second line.
 adding more lines.
+#1 fixes an important bug.
 #2 is editing.
 #1 adds a line at the end.
 #1 another line.
